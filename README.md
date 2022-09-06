@@ -37,5 +37,5 @@ Linda
 P.S. : j’insiste sur le fait qu’on n’a pas besoin d’un moteur de classification supervisée à ce stade, mais bien d’une étude de faisabilité !"
 
 Livrables
-Un notebook (ou des fichiers .py) contenant les fonctions permettant le prétraitement des données textes et images ainsi que les résultats du clustering (en y incluant des représentations graphiques).
-Un support de présentation qui présente la démarche et les résultats du clustering.
+- Un notebook (ou des fichiers .py) contenant les fonctions permettant le prétraitement des données textes et images ainsi que les résultats du clustering (en y incluant des représentations graphiques).
+- Un support de présentation qui présente la démarche et les résultats du clustering.
